@@ -1,0 +1,32 @@
+_repo: Noveller-och-skizzer_54113
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alfthan, Johannes
+    birthdate: 1830
+    deathdate: 1893
+    gutenberg_agent_id: '45109'
+    url: http://www.gutenberg.org/2009/agents/45109
+    wikipedia: https://fi.wikipedia.org/wiki/Johannes_Alfthan
+description: ''
+gutenberg_issued: '2017-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54113'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+- !lcsh 'Poland -- Description and travel'
+- !lcsh 'Russia -- Description and travel'
+- GITenberg
+tableOfContents: 'Kallista på Kastelholm. Pennteckning från Åland -- Ett mystiskt
+  par. Sann händelse från år 1867 -- Från Finland: 1. Från öster till vester. 2. Wiborg.
+  3. Från Ladogas strand. 4. En vacker hufvudstad i ett litet land -- Reseskizzer
+  från Polen och Ryssland: 1. Polen. 2. Ryssland -- Borgfröken. Skizz från kejsar
+  Nikolai regering.'
+title: Noveller och skizzer
+url: http://www.gutenberg.org/ebooks/54113
