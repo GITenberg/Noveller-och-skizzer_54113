@@ -1,5 +1,8 @@
 _repo: Noveller-och-skizzer_54113
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alfthan, Johannes
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45109
     wikipedia: https://fi.wikipedia.org/wiki/Johannes_Alfthan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54113#Noveller-och-skizzer
 gutenberg_issued: '2017-02-05'
 gutenberg_type: Text
 identifiers:
